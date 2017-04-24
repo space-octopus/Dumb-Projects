@@ -8,5 +8,5 @@ For this program you need RMS.jpg and Trash.py for it to work properly. Compile 
 # Hello Goodbye.py
 You just need this and compile it yourself. Unless your using GNU/Linux where your in luck.
 
-# InstallingGentoo.c++
+# InstallingGentoo.cpp
 This is just a program (virus) that I am working on so its not going to work.
